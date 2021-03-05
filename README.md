@@ -1,7 +1,7 @@
-# webhookdsnsfw
+# drfw
 nsfw discord bot
 
-REQUERIMIENTS
+# REQUERIMIENTS
 
 A couple discord webhooks
 
